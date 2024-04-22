@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(241, 241, 241, 0.87);
+}
+
+.cardtext{
+    width: 450px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 5px 5px 10px rgba(160, 159, 159, 0.911), -5px -5px 10px rgba(160, 159, 159, 0.911);
+    background-color: rgb(3, 3, 53);
+    color: white;
+    margin-top: 20%;
+    margin-left: 30%;
+    border-radius: 4px;
+}
+.h2{
+    margin-left: 43%;
+    font-size: 40px;
+    color: antiquewhite;
+}
+.btnin{
+    height: 35px;
+    width: 90px;
+    background-color: green;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    margin-right: 5%;
+    margin-left: -10%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.btnde{
+    height: 35px;
+    width: 90px;
+    background-color: red;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.btnre{
+    background-color: rgb(179, 178, 178);
+    height: 35px;
+    border: none;
+    width: 60px;
+    border-radius: 3px;
+    margin-right: 5%;
+    color: rgba(255, 255, 255, 0.781);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    margin-left: 12%;
+}
